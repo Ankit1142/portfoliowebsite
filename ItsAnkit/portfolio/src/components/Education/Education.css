@@ -8,6 +8,7 @@
     flex-direction: column;
     gap: 2rem;
     position: relative;
+    padding-top: 10vh;
 }
 .t-heading{
     align-self: start;
@@ -50,7 +51,9 @@
 .testimonial>span{
     color: var(--gray);
 }
-
+.testimonial>:nth-child(1){
+    color: var(--orange);
+}
 
 /* slider */
 .t-wrapper .swiper {
