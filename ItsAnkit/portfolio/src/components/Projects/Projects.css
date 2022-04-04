@@ -15,7 +15,7 @@
 .project1{
   align-items: center;
   justify-content: center;
-  color: var(--black);
+  color: var(--red);
   font-size: 2rem;
   font-weight: bold;
   width: 70vw;
@@ -33,6 +33,7 @@
   color: var(--gray);
   font-size: 2rem;
   font-weight: bold;
+ 
 }
 
 .content{
