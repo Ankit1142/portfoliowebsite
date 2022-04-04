@@ -33,7 +33,7 @@ const Services = () => {
           I am good in Data Structures and Algorithms and have  <br />
           quite good problem solving skills.
         </span>
-        <a href={Resume} download>
+        <a href={AnkitKumar-Resume} download>
           <button className="button s-button">Download CV</button>
         </a>
         <div className="blur s-blur1" style={{ background: "#ABF1FF94" }}></div>
